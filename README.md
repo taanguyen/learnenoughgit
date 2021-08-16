@@ -13,4 +13,5 @@ back up data, share your work with others, and collaborate with programmers and
 other users of Git.
 ”
 
-Excerpt From: Michael Hartl. “Learn Enough Git to Be Dangerous.” Apple Books. 
+Excerpt From: Michael Hartl. “Learn Enough Git to Be Dangerous.” Apple Books.
+[Git Official Docs](https://git-scm.com/doc)
